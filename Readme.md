@@ -1,3 +1,5 @@
 # Readme
 
-Project
+Kivyでラーメンタイマーを作ってみるテスト。
+
+![](img.png)
